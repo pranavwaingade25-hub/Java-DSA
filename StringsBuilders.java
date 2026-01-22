@@ -22,8 +22,8 @@ public class StringsBuilders {
         // sb.delete(2, 3);
         // System.out.println(sb);
 
-        // calculate the length
-        System.out.println(sb.length());
+        // // calculate the length
+        // System.out.println(sb.length());
 
 
         //==========================================================================
